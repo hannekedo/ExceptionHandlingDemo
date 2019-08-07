@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/ExceptionHandlingDemo
+/ExceptionHandlingDemo/bin/Debug/netcoreapp2.2
+/ExceptionHandlingDemo/obj
+/ExceptionHandlingDemo/Properties
